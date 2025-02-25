@@ -11,8 +11,14 @@ if (window.matchMedia('(display-mode: standalone)').matches) {
 }
 
 const apps = [
-    { name: "متجر الأمل", image: "img/IMG_٢٠٢٤١٢٢٢_٠٩٠٢٣٦_(512_x_512_pixel).png", description: "متجر الأمل للبيع المنتجات الغذائيه", link: "https://example.com/app1" },
-    { name: "تطبيق 2", image: "app2.png", description: "هذا وصف التطبيق الثاني", link: "https://example.com/app2" }
+    { name: "متجر الأمل",
+     image: "img/IMG_٢٠٢٤١٢٢٢_٠٩٠٢٣٦_(512_x_512_pixel).png",
+     description: "متجر الأمل للبيع المنتجات الغذائيه",
+     link: "https://github.com/appsudan/download/raw/refs/heads/main/app/%D9%85%D8%AA%D8%AC%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%84.apk" },
+    { name: "تطبيق 2",
+     image: "app2.png",
+     description: "هذا وصف التطبيق الثاني",
+     link: "https://example.com/app2" }
 ];
 
 const container = document.getElementById("appContainer");
