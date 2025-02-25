@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 15px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#appContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.app-card {
+    width: calc(50% - 20px); /* كل عنصر يشغل نصف العرض مع مسافة */
+    max-width: 300px; /* تحديد حد أقصى للعرض */
+    background: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+.app-card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+button {
+    background: #28a745;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
