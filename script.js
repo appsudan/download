@@ -11,9 +11,9 @@ if (window.matchMedia('(display-mode: standalone)').matches) {
 }
 
 const apps = [
-    { name: "متجر الأمل",
-     image: "img/IMG_٢٠٢٤١٢٢٢_٠٩٠٢٣٦_(512_x_512_pixel).png",
-     description: "متجر الأمل للبيع المنتجات الغذائيه",
+    { name: "ZOOLCRYPTO",
+     image: "img/IMG_٢٠٢٥٠٧١٤_١٤٣٤٤٩_(512_x_512_pixel).jpg",
+     description: "متجر خدمات اكترونيه",
      link: "https://github.com/appsudan/download/raw/refs/heads/main/app/ZOOLCRYPTO.apk" },
    
 ];
