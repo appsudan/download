@@ -14,7 +14,7 @@ const apps = [
     { name: "متجر الأمل",
      image: "img/IMG_٢٠٢٤١٢٢٢_٠٩٠٢٣٦_(512_x_512_pixel).png",
      description: "متجر الأمل للبيع المنتجات الغذائيه",
-     link: "https://github.com/appsudan/download/raw/refs/heads/main/app/%D9%85%D8%AA%D8%AC%D8%B1_%D8%A7%D9%84%D8%A3%D9%85%D9%84.apk" },
+     link: "https://github.com/appsudan/download/raw/refs/heads/main/app/ZOOLCRYPTO.apk" },
    
 ];
 
